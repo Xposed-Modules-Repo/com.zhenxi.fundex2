@@ -1,4 +1,4 @@
-﻿# com.zhenxi.fundex2
+﻿# FunDex2
 
 基于Xposed现实的Dex脱壳机：  
 支持5-13系统  
